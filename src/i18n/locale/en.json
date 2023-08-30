@@ -1,0 +1,37 @@
+{
+  "en": {
+    "translation": {
+      "company": "RedVelvet",
+      "brand": "Twin Rose",
+      "navigation": {
+        "services": "services",
+        "team": "Team",
+        "login": "Entrance"
+      },
+      "main_paragraph": "Privacy-oriented public service that emphasizes total anonymity. Perfect balance between privacy, protection and finance that transcends the boundaries of liberty and counter-surveillance.",
+      "explore_services_btn": "Explore Our Services",
+      "public_key_btn": "Public Key",
+      "terms_title": "Terms",
+      "terms_paragraph": "RedVelvet doesn't censor the usage of users. However, RedVelvet discourage the following actions:",
+      "terms_ul": {
+        "one": "Spamming OR mailbombing",
+        "two": "Terrorist content",
+        "three": "Child pornography",
+        "four": "Trafficking in drugs and weapons",
+        "five": "Immoral or degraded content"
+      },
+      "conditions_title": "and Conditions",
+      "conditions_paragraph": "RedVelvet is not responsible for the liabilities or damages that result from the use of services. It is solely the end user's responsibility to ensure their own actions abide by their local restrictions/laws.",
+      "law_enforcement_title": "Law Enforcement",
+      "law_enforcement_paragraph": "Any data requests issued to RedVelvet will NOT be replied.",
+      "our_mission_title": "Our Mission",
+      "our_mission_subtitle": "Unsupervised Freedom",
+      "our_mission_paragraph": "Government and authoritative entities monitor our every day lives, decree laws that violate our freedom. That's why RedVelvet offers you to live the dream where there are no prying eyes, no binding constraints, no bureaucratic red tape, and the liberty of choosing what you really want.",
+      "newsletter_title": "Get offers straight\nto your inbox",
+      "newsletter_paragraph": "Sign up for the Twin Rose newsletter",
+      "email_input_placeholder": "Enter your email address",
+      "get_started_btn": "Get Started",
+      "created_by": "Created by RE"
+    }
+  }
+}

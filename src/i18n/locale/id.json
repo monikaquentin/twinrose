@@ -1,0 +1,38 @@
+{
+  "id": {
+    "translation": {
+      "company": "RedVelvet",
+      "brand": "Twin Rose",
+      "navigation": {
+        "services": "Layanan",
+        "our_mission": "Misi Kami",
+        "team": "Tim",
+        "login": "Login"
+      },
+      "main_paragraph": "Layanan publik berorientasi privasi yang menekankan anonimitas total. Keseimbangan sempurna antara privasi dan perlindungan yang melampaui batas kebebasan dan kontra-pengawasan.",
+      "explore_services_btn": "Jelajahi Layanan Kami",
+      "public_key_btn": "Kunci Publik",
+      "terms_title": "Syarat",
+      "terms_paragraph": "RedVelvet tidak menyensor/membatasi penggunaan oleh pengguna. Namun, RedVelvet tidak menyarankan tindakan-tindakan berikut:",
+      "terms_ul": {
+        "one": "Spamming ATAU mailbombing",
+        "two": "Konten teroris",
+        "three": "Pornografi anak",
+        "four": "Perdagangan narkoba dan senjata",
+        "five": "Konten tidak bermoral atau terdegradasi"
+      },
+      "conditions_title": "dan Ketentuan",
+      "conditions_paragraph": "RedVelvet tidak bertanggung jawab atas tanggung jawab atau kerusakan yang timbul akibat penggunaan layanan. Tanggung jawab sepenuhnya ada pada pengguna akhir untuk memastikan tindakan mereka mematuhi pembatasan/hukum setempat.",
+      "law_enforcement_title": "Penegakan Hukum",
+      "law_enforcement_paragraph": "Permintaan data yang diajukan kepada RedVelvet TIDAK akan dijawab.",
+      "our_mission_title": "Misi Kami",
+      "our_mission_subtitle": "Kebebasan Tanpa Pengawasan",
+      "our_mission_paragraph": "Pemerintah dan entitas berwenang memantau kehidupan sehari-hari kita, mengeluarkan undang-undang yang melanggar kebebasan kita. Itulah mengapa RedVelvet menawarkan Anda untuk menjalani impian di mana tidak ada mata-mata, tidak ada batasan yang mengikat, tidak ada birokrasi, dan kebebasan untuk memilih apa yang Anda inginkan.",
+      "newsletter_title": "Dapatkan penawaran langsung\ndi inbox Anda",
+      "newsletter_paragraph": "Daftar untuk newsletter Twin Rose",
+      "email_input_placeholder": "Masukkan alamat email Anda",
+      "get_started_btn": "Mulai",
+      "created_by": "Dibuat oleh RE"
+    }
+  }
+}

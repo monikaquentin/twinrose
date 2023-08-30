@@ -1,0 +1,38 @@
+{
+  "jp": {
+    "translation": {
+      "company": "赤いベルベット",
+      "brand": "ツインローズ",
+      "navigation": {
+        "services": "サービス",
+        "our_mission": "我々の使命",
+        "team": "チーム",
+        "login": "ログイン"
+      },
+      "main_paragraph": "完全な匿名性を重視したプライバシー重視の公共サービス。 自由と反監視の境界を超えた、プライバシーと保護の完璧なバランス。",
+      "explore_services_btn": "当社のサービスを詳しく見る",
+      "public_key_btn": "公開鍵",
+      "terms_title": "条項",
+      "terms_paragraph": "赤いベルベット はユーザーの使用を検閲しません。 ただし、赤いベルベット は次の行為を推奨しません。",
+      "terms_ul": {
+        "one": "スパムまたはメールボム攻撃",
+        "two": "テロリストのコンテンツ",
+        "three": "児童ポルノ",
+        "four": "麻薬や武器の密売",
+        "five": "不道徳または品位を傷つけるコンテンツ"
+      },
+      "conditions_title": "と条件",
+      "conditions_paragraph": "赤いベルベット は、サービスの使用から生じる責任や損害について責任を負いません。 エンドユーザー自身の行動が地域の制限/法律に従っていることを確認するのは、エンドユーザーの単独の責任です。",
+      "law_enforcement_title": "法執行機関",
+      "law_enforcement_paragraph": "赤いベルベット に発行されたデータ要求には応答されません。",
+      "our_mission_title": "我々の使命",
+      "our_mission_subtitle": "監視されていない自由",
+      "our_mission_paragraph": "政府や権威ある機関は私たちの日常生活を監視し、私たちの自由を侵害する法律を制定します。 だからこそ、赤いベルベット は、詮索好きな目、拘束力のある制約、官僚的な官僚的な煩わしさのない、そして本当に望むものを選択する自由の中で、夢を生きることをあなたに提供します。",
+      "newsletter_title": "オファーを直接入手\nあなたの受信箱に",
+      "newsletter_paragraph": "ツインローズ ニュースレターに登録する",
+      "email_input_placeholder": "メールアドレスを入力してください",
+      "get_started_btn": "始めましょう",
+      "created_by": "作成者 RE"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+.be259-service {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.be259-service__discover {
+  position: absolute;
+  top: 44%;
+  left: 44%;
+  z-index: 1;
+  width: 160px;
+  height: 160px;
+  background-color: var(--primary-color);
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.be259-service__discover p {
+  font-size: 18px;
+  font-weight: 500;
+  font-family: var(--plus-jakarta-sans-font-display);
+  text-transform: uppercase;
+  color: #fff;
+}
+.be259-service__sushi,
+.be259-service__drinks {
+  width: 100%;
+  min-height: 640px;
+  display: flex;
+  flex-direction: row;
+}
+.be259-service__content {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 32px 64px;
+  max-width: 45%;
+}
+.be259-service__list {
+  list-style: none;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.be259-service__list li {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  gap: 12px;
+  min-width: 210px;
+}
+.be259-service__icon {
+  width: 24px;
+  height: 24px;
+  border-radius: 100%;
+  background-color: var(--primary-color);
+}
+.be259-service__icon img {
+  width: 50%;
+  height: 50%;
+  object-fit: contain;
+}
+.be259-service__list p {
+  flex: 1;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: var(--plus-jakarta-sans-font-display);
+  color: var(--tertiary-color);
+}
+.be259-service__image {
+  flex: 1;
+  position: relative;
+  padding: 32px 64px;
+  background-color: var(--white-color);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+.be259-service__image img {
+  width: 254px;
+  height: 260px;
+  object-fit: contain;
+}
+/* Arrows */
+.be259-service__arrow {
+  position: absolute;
+  z-index: 1;
+}
+.be259-service__arrow img {
+  object-fit: contain;
+}
+.be259-service__arrow-left {
+  left: -2.5px;
+  top: 12%;
+}
+.be259-service__arrow-left img,
+.be259-service__arrow-top img {
+  width: auto;
+  height: 100%;
+}
+.be259-service__arrow-top {
+  top: -2.5px;
+  left: 12%;
+}
+.be259-service__arrow-bottom {
+  bottom: -2.5px;
+  right: 12%;
+}
+.be259-service__arrow-bottom img,
+.be259-service__arrow-right img {
+  width: 100%;
+  height: auto;
+}
+.be259-service__arrow-right {
+  right: -2.5px;
+  bottom: 12%;
+}

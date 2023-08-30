@@ -1,0 +1,64 @@
+.a71a4-about {
+  display: flex;
+  min-height: 720px;
+  overflow: hidden;
+  text-align: start;
+}
+.a71a4-about h1 {
+  font-size: 85px;
+  color: var(--primary-color);
+  text-align: end;
+}
+.a71a4-about__image {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: var(--white-color);
+  position: relative;
+}
+.a71a4-about__image div {
+  padding: 32px 20px;
+  align-items: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.a71a4-about__fca02 {
+  border-bottom: 8px solid var(--creamson-color);
+}
+.a71a4-about__fca02 img {
+  width: 225px;
+  height: 200px;
+}
+.a71a4-about__fca02 img {
+  width: 240px;
+  height: 160px;
+}
+.a71a4-about__button {
+  position: absolute;
+  right: 0;
+  padding: 12px 32px;
+  min-height: 64px;
+  background: var(--tertiary-color);
+  border-radius: 0 0 0 0;
+  border: 0;
+  outline: 0;
+  color: #fff;
+  font-family: var(--plus-jakarta-sans-font-display);
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+  cursor: pointer;
+}
+.a71a4-about__button img {
+  object-fit: contain;
+  margin-left: 32px;
+}
+.a71a4-about__content {
+  padding: 64px;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}

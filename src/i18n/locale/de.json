@@ -1,0 +1,38 @@
+{
+  "de": {
+    "translation": {
+      "company": "RedVelvet",
+      "brand": "Twin Rose",
+      "navigation": {
+        "services": "Dienstleistungen",
+        "our_mission": "Unsere Mission",
+        "team": "Team",
+        "login": "Anmelden"
+      },
+      "main_paragraph": "Datenschutzorientierter öffentlicher Dienst, der totalen Anonymität betont. Perfektes Gleichgewicht zwischen Privatsphäre und Schutz, das die Grenzen der Freiheit und der Gegenüberwachung überwindet.",
+      "explore_services_btn": "Unsere Dienstleistungen erkunden",
+      "public_key_btn": "Öffentlicher Schlüssel",
+      "terms_title": "Bedingungen",
+      "terms_paragraph": "RedVelvet zensiert nicht die Nutzung durch Benutzer. RedVelvet entmutigt jedoch die folgenden Aktionen:",
+      "terms_ul": {
+        "one": "Spamming ODER Mailbombing",
+        "two": "Terroristischer Inhalt",
+        "three": "Kinderpornografie",
+        "four": "Handel mit Drogen und Waffen",
+        "five": "Unmoralischer oder degradierter Inhalt"
+      },
+      "conditions_title": "und Bedingungen",
+      "conditions_paragraph": "RedVelvet übernimmt keine Verantwortung für Haftungsansprüche oder Schäden, die aus der Nutzung der Dienstleistungen resultieren. Es liegt allein in der Verantwortung des Endbenutzers, sicherzustellen, dass seine eigenen Handlungen den örtlichen Beschränkungen/Gesetzen entsprechen.",
+      "law_enforcement_title": "Strafverfolgung",
+      "law_enforcement_paragraph": "Auf Anfragen von Strafverfolgungsbehörden an RedVelvet wird NICHT geantwortet.",
+      "our_mission_title": "Unsere Mission",
+      "our_mission_subtitle": "Unbeaufsichtigte Freiheit",
+      "our_mission_paragraph": "Regierung und autorisierte Stellen überwachen unser tägliches Leben, erlassen Gesetze, die unsere Freiheit verletzen. Aus diesem Grund bietet Ihnen RedVelvet die Möglichkeit, den Traum zu leben, in dem es keine neugierigen Blicke, keine bindenden Einschränkungen, keinen bürokratischen Papierkram und die Freiheit gibt, das zu wählen, was Sie wirklich wollen.",
+      "newsletter_title": "Angebote direkt\nin Ihr Postfach",
+      "newsletter_paragraph": "Melden Sie sich für den Twin Rose-Newsletter an",
+      "email_input_placeholder": "Geben Sie Ihre E-Mail-Adresse ein",
+      "get_started_btn": "Loslegen",
+      "created_by": "Erstellt von RE"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "fr": {
+    "translation": {
+      "company": "RedVelvet",
+      "brand": "Twin Rose",
+      "navigation": {
+        "services": "Services",
+        "our_mission": "Notre Mission",
+        "team": "Équipe",
+        "login": "Connexion"
+      },
+      "main_paragraph": "Service public axé sur la confidentialité, mettant l'accent sur l'anonymat total. Un équilibre parfait entre la vie privée et la protection qui transcende les frontières de la liberté et de la contre-surveillance.",
+      "explore_services_btn": "Explorer Nos Services",
+      "public_key_btn": "Clé Publique",
+      "terms_title": "Conditions",
+      "terms_paragraph": "RedVelvet ne censure pas l'utilisation des utilisateurs. Cependant, RedVelvet décourage les actions suivantes :",
+      "terms_ul": {
+        "one": "Spamming ou envoi massif de courriers",
+        "two": "Contenu terroriste",
+        "three": "Pornographie infantile",
+        "four": "Traite de drogues et d'armes",
+        "five": "Contenu immoral ou dégradant"
+      },
+      "conditions_title": "et Conditions",
+      "conditions_paragraph": "RedVelvet décline toute responsabilité pour les responsabilités ou les dommages découlant de l'utilisation des services. Il incombe uniquement à l'utilisateur final de veiller à ce que ses propres actions respectent les restrictions/lois locales.",
+      "law_enforcement_title": "Forces de l'ordre",
+      "law_enforcement_paragraph": "Toute demande de données adressée à RedVelvet ne recevra PAS de réponse.",
+      "our_mission_title": "Notre Mission",
+      "our_mission_subtitle": "Liberté Sans Surveillance",
+      "our_mission_paragraph": "Le gouvernement et les entités autorisées surveillent notre vie quotidienne, décrètent des lois qui portent atteinte à notre liberté. C'est pourquoi RedVelvet vous offre la possibilité de vivre le rêve où il n'y a pas de regards indiscrets, pas de contraintes restrictives, pas de bureaucratie, et la liberté de choisir ce que vous voulez vraiment.",
+      "newsletter_title": "Recevez des offres directement\ndans votre boîte de réception",
+      "newsletter_paragraph": "Inscrivez-vous à la newsletter Twin Rose",
+      "email_input_placeholder": "Entrez votre adresse e-mail",
+      "get_started_btn": "Commencer",
+      "created_by": "Créé par RE"
+    }
+  }
+}
